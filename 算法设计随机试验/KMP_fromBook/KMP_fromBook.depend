@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589771177 source:c:\users\123\desktop\算法设计随机试验\kmp_frombook\main.cpp
+	<iostream>
+	<string.h>
+
